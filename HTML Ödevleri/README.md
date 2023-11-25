@@ -2,14 +2,14 @@
 
 ### HTML Ödev 1 
 
-![HTML Ödev 1](https://resimlink.com/25irTdv)
+![HTML Ödev 3](images/html_odev_1.png)
 
 ### HTML Ödev 2
 
-![HTML Ödev 2](https://resimlink.com/AY5S8Nm)
+![HTML Ödev 2](images/html_odev_2.png)
 
 ### HTML Ödev 3
 
-![HTML Ödev 3](https://resimlink.com/6PCnXI)
+![HTML Ödev 3](images/html_odev_3.png)
 
 
